@@ -1,3 +1,4 @@
+
 .left .material-icons {
     color: hsla(0,16%,52%,1.00);
 }
@@ -88,6 +89,7 @@ nav  {
     padding-bottom: 3px;
     padding-top: 3px;
     background-color: hsla(60,38%,95%,1.00);
+	
 }
 
 .box1 {
@@ -141,8 +143,6 @@ nav a:hover {
     padding-left: 0px;
     margin-right: 23px;
 }
-
-
 
 body main p {
     text-align: left;
